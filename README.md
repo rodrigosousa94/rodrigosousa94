@@ -1,4 +1,4 @@
-### Hi there 😃
+### Olá 😃
 Sou o Rodrigo, sou um programador FullStack com foco em Front End. Sou completamente apaixonado por desenvolvimento e me dedico à aprender mais todos os dias. <br>
 As tecnologias que mais uso são: 
 
