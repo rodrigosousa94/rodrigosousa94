@@ -1,5 +1,5 @@
 ### Olá 😃
-Sou o Rodrigo, sou um programador FullStack com foco em Front End. Sou completamente apaixonado por desenvolvimento e me dedico à aprender mais todos os dias. <br>
+Sou o Rodrigo, sou um programador Front-end. Sou completamente apaixonado por desenvolvimento e me dedico à aprender mais todos os dias. <br>
 As tecnologias que mais uso são: 
 
 - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -11,4 +11,4 @@ As tecnologias que mais uso são:
 
 <b>Entre em contato comigo pelas minhas redes sociais:</b> <br><br> 
 <a href="https://www.instagram.com/rodri.oliver94/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/rodrigo-oliveira-a42b7626a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/s-rodrigo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
