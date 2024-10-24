@@ -1,5 +1,7 @@
 ### Olá 😃
-Sou o Rodrigo, sou um programador Front-end. Sou completamente apaixonado por desenvolvimento e me dedico à aprender mais todos os dias. <br>
+Sou o Rodrigo, sou um desenvolvedor <b>Front-End</b>. Estudante de Análise e Desenvolvimento de Sistemas pela Estácio, <b>venho aprimorando minhas habilidades por meio de projetos pessoais e freelances desde junho de 2023</b>, com ênfase em tecnologias como <b>JavaScript, TypeScript, React, Next.js e Git.</b> Possuo forte interesse no desenvolvimento de interfaces dinâmicas e funcionais, com constante aprimoramento de conhecimentos. Tenho experiência em estilização com <b>TailwindCSS, Bootstrap, SASS e Styled-Components, além de integração com APIs REST.</b>
+
+Além disso, sou um aprendiz ávido que valoriza a colaboração e o feedback, buscando sempre melhorar minhas habilidades através de interações com outros desenvolvedores e profissionais da área. Estou aberto a desafios que me permitam aplicar meu conhecimento e contribuir para o desenvolvimento de soluções inovadoras, enquanto continuo a expandir meu repertório técnico e criativo. <br>
 As tecnologias que mais uso são: 
 
 - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
